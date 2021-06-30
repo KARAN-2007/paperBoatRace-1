@@ -4,7 +4,7 @@ var ground;
 
 
 function preload(){
-bgI=loadImage("gameBg.jpg")
+bgI=loadImage("gameBG.jpg")
 pcI=loadImage("pcBoat.png")
 
 }
